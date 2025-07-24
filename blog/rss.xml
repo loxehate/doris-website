@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Apache Doris Blog</title>
+        <link>https://doris.apache.org/blog/</link>
+        <description>Apache Doris Blog</description>
+        <lastBuildDate>Thu, 17 Jul 2025 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[From ClickHouse to Apache Doris: Powering Trillion-Log-Scale Analytics at a Leading Music Streaming Service]]></title>
+            <link>https://doris.apache.org/blog/from-clickhouse-to-doris-trillion-log-scale-analytics/</link>
+            <guid>https://doris.apache.org/blog/from-clickhouse-to-doris-trillion-log-scale-analytics/</guid>
+            <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A major music streaming platform successfully migrated its massive 2PB log analytics from ClickHouse to Apache Doris, achieving up to 7x faster searches, 30% lower P99 query latency, 2.5x higher concurrency, and significant operational savings.]]></description>
+            <content:encoded><![CDATA[<header><div class="text-center mb-4"><a class="!text-[#8592A6] cursor-pointer hover:no-underline" href="https://doris.apache.org/blog/">Blog</a><span class="px-2 text-[#8592A6]">/</span><span><span class="s-tags"><span class="s-tag">Tech Sharing</span></span></span></div><h1 class="blog-post-title text-[2rem] leading-normal lg:!text-[2.5rem] text-center" itemprop="headline">From ClickHouse to Apache Doris: Powering Trillion-Log-Scale Analytics at a Leading Music Streaming Service</h1><div class="blog-info text-center flex justify-center text-sm text-black"><span class="authors"><span class="s-author text-black">velodb.io &#xB7; VeloDB Engineering Team</span></span><time datetime="2025-07-17T00:00:00.000Z" itemprop="datePublished" class="text-black ml-4">July 17, 2025</time></div></header><div id="__blog-post-container" class="markdown" itemprop="articleBody"></div>]]></content:encoded>
+            <category>Tech Sharing</category>
+        </item>
+        <item>
+            <title><![CDATA[Building Real-Time Lakehouse with Apache Doris: A Practical Guide]]></title>
+            <link>https://doris.apache.org/blog/building-real-time-lakehouse-with-apache-doris/</link>
+            <guid>https://doris.apache.org/blog/building-real-time-lakehouse-with-apache-doris/</guid>
+            <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Lakehouse is a data management paradigm that combines the advantages of data lakes and data warehouses. Apache Doris advances this concept with its core philosophies of Boundless Data, Seamless Lakehouse. This article takes a deeper dive into its typical application scenarios to help readers better understand and apply its capabilities.]]></description>
+            <content:encoded><![CDATA[<header><div class="text-center mb-4"><a class="!text-[#8592A6] cursor-pointer hover:no-underline" href="https://doris.apache.org/blog/">Blog</a><span class="px-2 text-[#8592A6]">/</span><span><span class="s-tags"><span class="s-tag">Tech Sharing</span></span></span></div><h1 class="blog-post-title text-[2rem] leading-normal lg:!text-[2.5rem] text-center" itemprop="headline">Building Real-Time Lakehouse with Apache Doris: A Practical Guide</h1><div class="blog-info text-center flex justify-center text-sm text-black"><span class="authors"><span class="s-author text-black">velodb.io &#xB7; VeloDB Engineering Team</span></span><time datetime="2025-07-15T00:00:00.000Z" itemprop="datePublished" class="text-black ml-4">July 15, 2025</time></div></header><div id="__blog-post-container" class="markdown" itemprop="articleBody"></div>]]></content:encoded>
+            <category>Tech Sharing</category>
+        </item>
+        <item>
+            <title><![CDATA[From Elasticsearch to Apache Doris: How a Leading Payment Platform Upgraded its Financial Security Analytics, Boosting Queries by 56x]]></title>
+            <link>https://doris.apache.org/blog/from-elasticsearch-to-doris-boosting-queries-by-56x/</link>
+            <guid>https://doris.apache.org/blog/from-elasticsearch-to-doris-boosting-queries-by-56x/</guid>
+            <pubDate>Sun, 13 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A leading payment platform, handling over 600 million daily security events, replaced its Elasticsearch and Hudi stack with Apache Doris. This move achieved up to 56x faster queries, 50% lower storage costs, and 58% higher write throughput, while simplifying architecture and boosting developer efficiency.]]></description>
+            <content:encoded><![CDATA[<header><div class="text-center mb-4"><a class="!text-[#8592A6] cursor-pointer hover:no-underline" href="https://doris.apache.org/blog/">Blog</a><span class="px-2 text-[#8592A6]">/</span><span><span class="s-tags"><span class="s-tag">Tech Sharing</span></span></span></div><h1 class="blog-post-title text-[2rem] leading-normal lg:!text-[2.5rem] text-center" itemprop="headline">From Elasticsearch to Apache Doris: How a Leading Payment Platform Upgraded its Financial Security Analytics, Boosting Queries by 56x</h1><div class="blog-info text-center flex justify-center text-sm text-black"><span class="authors"><span class="s-author text-black">velodb.io &#xB7; VeloDB Engineering Team</span></span><time datetime="2025-07-13T00:00:00.000Z" itemprop="datePublished" class="text-black ml-4">July 13, 2025</time></div></header><div id="__blog-post-container" class="markdown" itemprop="articleBody"></div>]]></content:encoded>
+            <category>Tech Sharing</category>
+        </item>
+        <item>
+            <title><![CDATA[1 Billion JSON Records, 1-Second Query Response]]></title>
+            <link>https://doris.apache.org/blog/1-billion-json-records-1-second-query-response/</link>
+            <guid>https://doris.apache.org/blog/1-billion-json-records-1-second-query-response/</guid>
+            <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Who reigns over JSONBench? Apache Doris ranks among the top-performers, second only to two versions of Clickhouse (the maintainer of JSONBench itself). After some simple tuning, Apache Doris outperforms ClickHouse by 39%.]]></description>
+            <content:encoded><![CDATA[<header><div class="text-center mb-4"><a class="!text-[#8592A6] cursor-pointer hover:no-underline" href="https://doris.apache.org/blog/">Blog</a><span class="px-2 text-[#8592A6]">/</span><span><span class="s-tags"><span class="s-tag">Tech Sharing</span></span></span></div><h1 class="blog-post-title text-[2rem] leading-normal lg:!text-[2.5rem] text-center" itemprop="headline">1 Billion JSON Records, 1-Second Query Response</h1><div class="blog-info text-center flex justify-center text-sm text-black"><span class="authors"><span class="s-author text-black">velodb.io &#xB7; Xiaolei, Apache Doris Committer</span></span><time datetime="2025-07-02T00:00:00.000Z" itemprop="datePublished" class="text-black ml-4">July 2, 2025</time></div></header><div id="__blog-post-container" class="markdown" itemprop="articleBody"></div>]]></content:encoded>
+            <category>Tech Sharing</category>
+        </item>
+        <item>
+            <title><![CDATA[EMQX now supports real-time data ingestion into Apache Doris for efficient IoT analytics]]></title>
+            <link>https://doris.apache.org/blog/emqx-apache-doris-ecosystem-for-iot-analytics/</link>
+            <guid>https://doris.apache.org/blog/emqx-apache-doris-ecosystem-for-iot-analytics/</guid>
+            <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Apache Doris data integration is an out-of-the-box feature in EMQX, which enables complex business development through simple configuration. In a typical IoT application, EMQX, as the IoT platform, is responsible for device connection and transmitting messages. Apache Doris, as the data storage platform, is responsible for storing device status and metadata, as well as message data storage and data analysis. Using EMQX and Apache Doris, users can build high-performance, reliable, and scalable IoT applications that deliver an end-to-end solution from data acquisition through analytics to actionable intelligence.]]></description>
+            <content:encoded><![CDATA[<header><div class="text-center mb-4"><a class="!text-[#8592A6] cursor-pointer hover:no-underline" href="https://doris.apache.org/blog/">Blog</a><span class="px-2 text-[#8592A6]">/</span><span><span class="s-tags"><span class="s-tag">Tech Sharing</span></span></span></div><h1 class="blog-post-title text-[2rem] leading-normal lg:!text-[2.5rem] text-center" itemprop="headline">EMQX now supports real-time data ingestion into Apache Doris for efficient IoT analytics</h1><div class="blog-info text-center flex justify-center text-sm text-black"><span class="authors"><span class="s-author text-black">velodb.io &#xB7; VeloDB Engineering Team</span></span><time datetime="2025-07-02T00:00:00.000Z" itemprop="datePublished" class="text-black ml-4">July 2, 2025</time></div></header><div id="__blog-post-container" class="markdown" itemprop="articleBody"></div>]]></content:encoded>
+            <category>Tech Sharing</category>
+        </item>
+        <item>
+            <title><![CDATA[The data lakehouse evolution: why Apache Doris is leading the way]]></title>
+            <link>https://doris.apache.org/blog/apache-doris-the-data-lakehouse-evolution/</link>
+            <guid>https://doris.apache.org/blog/apache-doris-the-data-lakehouse-evolution/</guid>
+            <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[As enterprises push forward with building a lakehouse architecture, they often face complex challenges. Apache Doris aims to facilitate this process. It offers easy data access (from Hive, Iceberg, Hudi, Paimon), an extensible connector framework (with Kudu, BigQuery, Delta Lake, Kafka, and Redis) and convenient cross-source data processing with high analytics performance. It also allows easy deployment, a rich set of data storage and management capabilities, and strong support for open table formats and file formats.]]></description>
+            <content:encoded><![CDATA[<header><div class="text-center mb-4"><a class="!text-[#8592A6] cursor-pointer hover:no-underline" href="https://doris.apache.org/blog/">Blog</a><span class="px-2 text-[#8592A6]">/</span><span><span class="s-tags"><span class="s-tag">Tech Sharing</span></span></span></div><h1 class="blog-post-title text-[2rem] leading-normal lg:!text-[2.5rem] text-center" itemprop="headline">The data lakehouse evolution: why Apache Doris is leading the way</h1><div class="blog-info text-center flex justify-center text-sm text-black"><span class="authors"><span class="s-author text-black">velodb.io &#xB7; Rayner Chen, Apache Doris PMC Chair</span></span><time datetime="2025-06-30T00:00:00.000Z" itemprop="datePublished" class="text-black ml-4">June 30, 2025</time></div></header><div id="__blog-post-container" class="markdown" itemprop="articleBody"></div>]]></content:encoded>
+            <category>Tech Sharing</category>
+        </item>
+        <item>
+            <title><![CDATA[Community Voice | It’s 2025: How Do You Choose Between Doris and ClickHouse?]]></title>
+            <link>https://doris.apache.org/blog/community-voice-2025-how-do-you-choose-between-doris-and-clickhouse/</link>
+            <guid>https://doris.apache.org/blog/community-voice-2025-how-do-you-choose-between-doris-and-clickhouse/</guid>
+            <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Those in favor of ClickHouse argued for its superior performance, while those supporting Doris emphasized its comprehensive ecosystem and high usability. Ultimately, it took us nearly two months of comprehensive testing to make a decision…]]></description>
+            <content:encoded><![CDATA[<header><div class="text-center mb-4"><a class="!text-[#8592A6] cursor-pointer hover:no-underline" href="https://doris.apache.org/blog/">Blog</a><span class="px-2 text-[#8592A6]">/</span><span><span class="s-tags"><span class="s-tag">Tech Sharing</span></span></span></div><h1 class="blog-post-title text-[2rem] leading-normal lg:!text-[2.5rem] text-center" itemprop="headline">Community Voice | It&#x2019;s 2025: How Do You Choose Between Doris and ClickHouse?</h1><div class="blog-info text-center flex justify-center text-sm text-black"><span class="authors"><span class="s-author text-black">Medium &#xB7; Zen Hua</span></span><time datetime="2025-06-30T00:00:00.000Z" itemprop="datePublished" class="text-black ml-4">June 30, 2025</time></div></header><div id="__blog-post-container" class="markdown" itemprop="articleBody"></div>]]></content:encoded>
+            <category>Tech Sharing</category>
+        </item>
+        <item>
+            <title><![CDATA[Community Voice | Cut Costs and Boost Efficiency! How Doris’s Unified Lakehouse Breaks Down Data Silos]]></title>
+            <link>https://doris.apache.org/blog/community-voice-cut-costs-and-boost-efficiency-how-doriss-unified-lakehouse-breaks-down-data-silos/</link>
+            <guid>https://doris.apache.org/blog/community-voice-cut-costs-and-boost-efficiency-how-doriss-unified-lakehouse-breaks-down-data-silos/</guid>
+            <pubDate>Sun, 29 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[By leveraging Multi‑Catalog and an extensible connector framework, Doris seamlessly connects to all major data systems and formats — Hive, Iceberg, Hudi, Paimon, LakeSoul, Elasticsearch, MySQL, Oracle, SQL Server, and more.]]></description>
+            <content:encoded><![CDATA[<header><div class="text-center mb-4"><a class="!text-[#8592A6] cursor-pointer hover:no-underline" href="https://doris.apache.org/blog/">Blog</a><span class="px-2 text-[#8592A6]">/</span><span><span class="s-tags"><span class="s-tag">Tech Sharing</span></span></span></div><h1 class="blog-post-title text-[2rem] leading-normal lg:!text-[2.5rem] text-center" itemprop="headline">Community Voice | Cut Costs and Boost Efficiency! How Doris&#x2019;s Unified Lakehouse Breaks Down Data Silos</h1><div class="blog-info text-center flex justify-center text-sm text-black"><span class="authors"><span class="s-author text-black">Medium &#xB7; Hayden</span></span><time datetime="2025-06-29T00:00:00.000Z" itemprop="datePublished" class="text-black ml-4">June 29, 2025</time></div></header><div id="__blog-post-container" class="markdown" itemprop="articleBody"></div>]]></content:encoded>
+            <category>Tech Sharing</category>
+        </item>
+        <item>
+            <title><![CDATA[Community Voice | Breaking Down the Barriers of SQL Dialects and Building a Unified Data Query Ecosystem]]></title>
+            <link>https://doris.apache.org/blog/community-voice-doris-breaking-down-the-barriers-of-sql-dialects-and-building-a-unified-data-query-ecosystem/</link>
+            <guid>https://doris.apache.org/blog/community-voice-doris-breaking-down-the-barriers-of-sql-dialects-and-building-a-unified-data-query-ecosystem/</guid>
+            <pubDate>Sat, 28 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Apache Doris, with its robust SQL dialect compatibility capabilities, has shattered this barrier and constructed a unified data query ecosystem for users.]]></description>
+            <content:encoded><![CDATA[<header><div class="text-center mb-4"><a class="!text-[#8592A6] cursor-pointer hover:no-underline" href="https://doris.apache.org/blog/">Blog</a><span class="px-2 text-[#8592A6]">/</span><span><span class="s-tags"><span class="s-tag">Tech Sharing</span></span></span></div><h1 class="blog-post-title text-[2rem] leading-normal lg:!text-[2.5rem] text-center" itemprop="headline">Community Voice | Breaking Down the Barriers of SQL Dialects and Building a Unified Data Query Ecosystem</h1><div class="blog-info text-center flex justify-center text-sm text-black"><span class="authors"><span class="s-author text-black">dev.to &#xB7; Darren XU</span></span><time datetime="2025-06-28T00:00:00.000Z" itemprop="datePublished" class="text-black ml-4">June 28, 2025</time></div></header><div id="__blog-post-container" class="markdown" itemprop="articleBody"></div>]]></content:encoded>
+            <category>Tech Sharing</category>
+        </item>
+        <item>
+            <title><![CDATA[Community Voice | Doris Lakehouse Integration: A New Approach to Data Analysis]]></title>
+            <link>https://doris.apache.org/blog/community-voice-doris-lakehouse-integration/</link>
+            <guid>https://doris.apache.org/blog/community-voice-doris-lakehouse-integration/</guid>
+            <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Doris Lakehouse Integration bridges data lakes and warehouses and enables seamless access, faster queries, unified management, and greater data value.]]></description>
+            <content:encoded><![CDATA[<header><div class="text-center mb-4"><a class="!text-[#8592A6] cursor-pointer hover:no-underline" href="https://doris.apache.org/blog/">Blog</a><span class="px-2 text-[#8592A6]">/</span><span><span class="s-tags"><span class="s-tag">Tech Sharing</span></span></span></div><h1 class="blog-post-title text-[2rem] leading-normal lg:!text-[2.5rem] text-center" itemprop="headline">Community Voice | Doris Lakehouse Integration: A New Approach to Data Analysis</h1><div class="blog-info text-center flex justify-center text-sm text-black"><span class="authors"><span class="s-author text-black">DZone &#xB7; Darren XU</span></span><time datetime="2025-06-27T00:00:00.000Z" itemprop="datePublished" class="text-black ml-4">June 27, 2025</time></div></header><div id="__blog-post-container" class="markdown" itemprop="articleBody"></div>]]></content:encoded>
+            <category>Tech Sharing</category>
+        </item>
+        <item>
+            <title><![CDATA[Community Voice | Lakehouse: Manus? MCP? Let’s Talk About Lakehouse and AI]]></title>
+            <link>https://doris.apache.org/blog/community-voice-lakehouse-manus-mcp-lets-talk-about-lakehouse/</link>
+            <guid>https://doris.apache.org/blog/community-voice-lakehouse-manus-mcp-lets-talk-about-lakehouse/</guid>
+            <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[The data analytics domain is no exception — Databricks, Snowflake, and Elasticsearch have all redefined themselves as AI data platforms or AI-ready data analytics and search products. Setting aside the “hype”, in today’s article, we’ll explore what relationship actually exists between Lakehouse and AI.]]></description>
+            <content:encoded><![CDATA[<header><div class="text-center mb-4"><a class="!text-[#8592A6] cursor-pointer hover:no-underline" href="https://doris.apache.org/blog/">Blog</a><span class="px-2 text-[#8592A6]">/</span><span><span class="s-tags"><span class="s-tag">Tech Sharing</span></span></span></div><h1 class="blog-post-title text-[2rem] leading-normal lg:!text-[2.5rem] text-center" itemprop="headline">Community Voice | Lakehouse: Manus? MCP? Let&#x2019;s Talk About Lakehouse and AI</h1><div class="blog-info text-center flex justify-center text-sm text-black"><span class="authors"><span class="s-author text-black">DZone &#xB7; Mingyu Chen, Apache Doris PMC Chair</span></span><time datetime="2025-06-27T00:00:00.000Z" itemprop="datePublished" class="text-black ml-4">June 27, 2025</time></div></header><div id="__blog-post-container" class="markdown" itemprop="articleBody"></div>]]></content:encoded>
+            <category>Tech Sharing</category>
+        </item>
+        <item>
+            <title><![CDATA[Community Voice | Lakehouse: Starting With Apache Doris and S3 Tables]]></title>
+            <link>https://doris.apache.org/blog/community-voice-lakehouse-starting-with-apache-doris-s3-tables/</link>
+            <guid>https://doris.apache.org/blog/community-voice-lakehouse-starting-with-apache-doris-s3-tables/</guid>
+            <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Based on data sharing, diverse workloads and collaboration, Lakehouse has brought us a new paradigm for data analysis. S3 Tables further simplify the setup and maintenance of underlying storage facilities on this basis, achieving a nearly out-of-the-box effect. ]]></description>
+            <content:encoded><![CDATA[<header><div class="text-center mb-4"><a class="!text-[#8592A6] cursor-pointer hover:no-underline" href="https://doris.apache.org/blog/">Blog</a><span class="px-2 text-[#8592A6]">/</span><span><span class="s-tags"><span class="s-tag">Tech Sharing</span></span></span></div><h1 class="blog-post-title text-[2rem] leading-normal lg:!text-[2.5rem] text-center" itemprop="headline">Community Voice | Lakehouse: Starting With Apache Doris and S3 Tables</h1><div class="blog-info text-center flex justify-center text-sm text-black"><span class="authors"><span class="s-author text-black">Medium &#xB7; Mingyu Chen, Apache Doris PMC Chair</span></span><time datetime="2025-06-26T00:00:00.000Z" itemprop="datePublished" class="text-black ml-4">June 26, 2025</time></div></header><div id="__blog-post-container" class="markdown" itemprop="articleBody"></div>]]></content:encoded>
+            <category>Tech Sharing</category>
+        </item>
+        <item>
+            <title><![CDATA[Community Voice | When Doris Meets Iceberg: A Redemption of a Data Engineer]]></title>
+            <link>https://doris.apache.org/blog/community-voice-when-doris-meets-iceberg/</link>
+            <guid>https://doris.apache.org/blog/community-voice-when-doris-meets-iceberg/</guid>
+            <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Apache Doris and Iceberg are redefining the way data lakes work. It's not just a simple 1 plus 1 equals to 2; it brings a qualitative leap!]]></description>
+            <content:encoded><![CDATA[<header><div class="text-center mb-4"><a class="!text-[#8592A6] cursor-pointer hover:no-underline" href="https://doris.apache.org/blog/">Blog</a><span class="px-2 text-[#8592A6]">/</span><span><span class="s-tags"><span class="s-tag">Tech Sharing</span></span></span></div><h1 class="blog-post-title text-[2rem] leading-normal lg:!text-[2.5rem] text-center" itemprop="headline">Community Voice | When Doris Meets Iceberg: A Redemption of a Data Engineer</h1><div class="blog-info text-center flex justify-center text-sm text-black"><span class="authors"><span class="s-author text-black">DZone &#xB7; Zen Hua</span></span><time datetime="2025-06-25T00:00:00.000Z" itemprop="datePublished" class="text-black ml-4">June 25, 2025</time></div></header><div id="__blog-post-container" class="markdown" itemprop="articleBody"></div>]]></content:encoded>
+            <category>Tech Sharing</category>
+        </item>
+        <item>
+            <title><![CDATA[Top commercial bank migrated from Elasticsearch to Apache Doris for PB-scale log storage and analytics]]></title>
+            <link>https://doris.apache.org/blog/top-commercial-bank-migrated-from-elasticsearch-to-apache-doris-for-pb-scale-log-storage-and-analytics/</link>
+            <guid>https://doris.apache.org/blog/top-commercial-bank-migrated-from-elasticsearch-to-apache-doris-for-pb-scale-log-storage-and-analytics/</guid>
+            <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[By replacing Elasticsearch with Apache Doris, the commercial bank has saved 50% of resources while improving query speed by 2~4× and enjoying much simpler operations and maintenance.]]></description>
+            <content:encoded><![CDATA[<header><div class="text-center mb-4"><a class="!text-[#8592A6] cursor-pointer hover:no-underline" href="https://doris.apache.org/blog/">Blog</a><span class="px-2 text-[#8592A6]">/</span><span><span class="s-tags"><span class="s-tag">Best Practice</span></span></span></div><h1 class="blog-post-title text-[2rem] leading-normal lg:!text-[2.5rem] text-center" itemprop="headline">Top commercial bank migrated from Elasticsearch to Apache Doris for PB-scale log storage and analytics</h1><div class="blog-info text-center flex justify-center text-sm text-black"><span class="authors"><span class="s-author text-black">velodb.io &#xB7; VeloDB Engineering Team</span></span><time datetime="2025-06-24T00:00:00.000Z" itemprop="datePublished" class="text-black ml-4">June 24, 2025</time></div></header><div id="__blog-post-container" class="markdown" itemprop="articleBody"></div>]]></content:encoded>
+            <category>Best Practice</category>
+        </item>
+        <item>
+            <title><![CDATA[Community Voice | Apache Doris and DeepSeek: Redefining Intelligent Data Analytics]]></title>
+            <link>https://doris.apache.org/blog/apache-doris-and-deepseek-community-voice/</link>
+            <guid>https://doris.apache.org/blog/apache-doris-and-deepseek-community-voice/</guid>
+            <pubDate>Fri, 20 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[This article will focus on the in — depth integration of Apache Doris and DeepSeek, and will analyze in detail its technical implementation, optimization strategies, application scenarios, and future trends. It is hoped that through this content, you can comprehensively understand the potential of this combination and find a practical path suitable for your business.]]></description>
+            <content:encoded><![CDATA[<header><div class="text-center mb-4"><a class="!text-[#8592A6] cursor-pointer hover:no-underline" href="https://doris.apache.org/blog/">Blog</a><span class="px-2 text-[#8592A6]">/</span><span><span class="s-tags"><span class="s-tag">Tech Sharing</span></span></span></div><h1 class="blog-post-title text-[2rem] leading-normal lg:!text-[2.5rem] text-center" itemprop="headline">Community Voice | Apache Doris and DeepSeek: Redefining Intelligent Data Analytics</h1><div class="blog-info text-center flex justify-center text-sm text-black"><span class="authors"><span class="s-author text-black">Medium &#xB7; DarrenXu</span></span><time datetime="2025-06-20T00:00:00.000Z" itemprop="datePublished" class="text-black ml-4">June 20, 2025</time></div></header><div id="__blog-post-container" class="markdown" itemprop="articleBody"></div>]]></content:encoded>
+            <category>Tech Sharing</category>
+        </item>
+        <item>
+            <title><![CDATA[Community Voice | Introduction to Apache Doris]]></title>
+            <link>https://doris.apache.org/blog/doris-introduction-community-voice/</link>
+            <guid>https://doris.apache.org/blog/doris-introduction-community-voice/</guid>
+            <pubDate>Fri, 20 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[With Apache Doris, we now have a comprehensive solution as a high-performance analytical database. In this tutorial, we’ll explore what makes Doris different, how it works, the ecosystem and tooling, and whether it deserves a place in your data stack.]]></description>
+            <content:encoded><![CDATA[<header><div class="text-center mb-4"><a class="!text-[#8592A6] cursor-pointer hover:no-underline" href="https://doris.apache.org/blog/">Blog</a><span class="px-2 text-[#8592A6]">/</span><span><span class="s-tags"><span class="s-tag">Tech Sharing</span></span></span></div><h1 class="blog-post-title text-[2rem] leading-normal lg:!text-[2.5rem] text-center" itemprop="headline">Community Voice | Introduction to Apache Doris</h1><div class="blog-info text-center flex justify-center text-sm text-black"><span class="authors"><span class="s-author text-black">baeldung.com &#xB7; Hannah Igboke</span></span><time datetime="2025-06-20T00:00:00.000Z" itemprop="datePublished" class="text-black ml-4">June 20, 2025</time></div></header><div id="__blog-post-container" class="markdown" itemprop="articleBody"></div>]]></content:encoded>
+            <category>Tech Sharing</category>
+        </item>
+        <item>
+            <title><![CDATA[Elasticsearch vs ClickHouse vs Apache Doris — which powers observability better?]]></title>
+            <link>https://doris.apache.org/blog/which-powers-observability-better/</link>
+            <guid>https://doris.apache.org/blog/which-powers-observability-better/</guid>
+            <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A side-by-side comparison of observability solutions in terms of performance, cost, usability, and ecosystem openness. This article also introduces Apache Doris as a powerful observability solution, supported by live demos and real-world user success stories.]]></description>
+            <content:encoded><![CDATA[<header><div class="text-center mb-4"><a class="!text-[#8592A6] cursor-pointer hover:no-underline" href="https://doris.apache.org/blog/">Blog</a><span class="px-2 text-[#8592A6]">/</span><span><span class="s-tags"><span class="s-tag">Tech Sharing</span></span></span></div><h1 class="blog-post-title text-[2rem] leading-normal lg:!text-[2.5rem] text-center" itemprop="headline">Elasticsearch vs ClickHouse vs Apache Doris &#x2014; which powers observability better?</h1><div class="blog-info text-center flex justify-center text-sm text-black"><span class="authors"><span class="s-author text-black">velodb.io &#xB7; VeloDB Engineering Team</span></span><time datetime="2025-06-17T00:00:00.000Z" itemprop="datePublished" class="text-black ml-4">June 17, 2025</time></div></header><div id="__blog-post-container" class="markdown" itemprop="articleBody"></div>]]></content:encoded>
+            <category>Tech Sharing</category>
+        </item>
+        <item>
+            <title><![CDATA[Apache Doris 3.0.6 Released]]></title>
+            <link>https://doris.apache.org/blog/release-note-3.0.6/</link>
+            <guid>https://doris.apache.org/blog/release-note-3.0.6/</guid>
+            <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Dear community members, the Apache Doris 3.0.6 version was officially released on Jun 16, 2025, this version introduces continuous upgrades and enhancements in Lakehouse, Query Execution and Compute-Storage Decoupled.]]></description>
+            <content:encoded><![CDATA[<header><div class="text-center mb-4"><a class="!text-[#8592A6] cursor-pointer hover:no-underline" href="https://doris.apache.org/blog/">Blog</a><span class="px-2 text-[#8592A6]">/</span><span><span class="s-tags"><span class="s-tag">Release Notes</span></span></span></div><h1 class="blog-post-title text-[2rem] leading-normal lg:!text-[2.5rem] text-center" itemprop="headline">Apache Doris 3.0.6 Released</h1><div class="blog-info text-center flex justify-center text-sm text-black"><span class="authors"><span class="s-author text-black">Apache Doris</span></span><time datetime="2025-06-16T00:00:00.000Z" itemprop="datePublished" class="text-black ml-4">June 16, 2025</time></div></header><div id="__blog-post-container" class="markdown" itemprop="articleBody"><p>Dear community members, the Apache Doris 3.0.6 version was officially released on Jun 16, 2025.</p>
+<p><strong>Quick Download:</strong> <a href="https://doris.apache.org/download/" target="_blank" rel="noopener noreferrer">https://doris.apache.org/download/</a></p>
+<p><strong>GitHub Release:</strong> <a href="https://github.com/apache/doris/releases" target="_blank" rel="noopener noreferrer">https://github.com/apache/doris/releases</a></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="behavior-changes">Behavior Changes<a href="https://doris.apache.org/blog/release-note-3.0.6/#behavior-changes" class="hash-link" aria-label="Direct link to Behavior Changes" title="Direct link to Behavior Changes">&#x200B;</a></h2>
+<ul>
+<li><strong>Prohibited time-series compaction for Unique tables</strong> <a href="https://github.com/apache/doris/pull/49905" target="_blank" rel="noopener noreferrer">#49905</a></li>
+<li><strong>Adjusted Auto Bucket size to 10GB per bucket in compute-storage separation scenarios</strong> <a href="https://github.com/apache/doris/pull/50566" target="_blank" rel="noopener noreferrer">#50566</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="new-features">New Features<a href="https://doris.apache.org/blog/release-note-3.0.6/#new-features" class="hash-link" aria-label="Direct link to New Features" title="Direct link to New Features">&#x200B;</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="lakehouse">Lakehouse<a href="https://doris.apache.org/blog/release-note-3.0.6/#lakehouse" class="hash-link" aria-label="Direct link to Lakehouse" title="Direct link to Lakehouse">&#x200B;</a></h3>
+<ul>
+<li><strong>Added support for accessing Iceberg table formats in AWS S3 Table Buckets</strong>
+<ul>
+<li>For detailed information, please refer to documentation: <a href="https://doris.apache.org/docs/dev/lakehouse/catalogs/iceberg-catalog#iceberg-on-s3-tables" target="_blank" rel="noopener noreferrer">Iceberg on S3 Tables</a></li>
+</ul>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="storage">Storage<a href="https://doris.apache.org/blog/release-note-3.0.6/#storage" class="hash-link" aria-label="Direct link to Storage" title="Direct link to Storage">&#x200B;</a></h3>
+<ul>
+<li><strong>IAM Role authorization support for object storage access</strong> Applies to import/export, backup/restore, and compute-storage separation scenarios <a href="https://github.com/apache/doris/pull/50252" target="_blank" rel="noopener noreferrer">#50252</a> <a href="https://github.com/apache/doris/pull/50682" target="_blank" rel="noopener noreferrer">#50682</a> <a href="https://github.com/apache/doris/pull/49541" target="_blank" rel="noopener noreferrer">#49541</a> <a href="https://github.com/apache/doris/pull/49565" target="_blank" rel="noopener noreferrer">#49565</a> <a href="https://github.com/apache/doris/pull/49422" target="_blank" rel="noopener noreferrer">#49422</a>
+<ul>
+<li>For detailed information, please refer to <a href="https://doris.apache.org/docs/3.0/admin-manual/auth/integrations/aws-authentication-and-authorization" target="_blank" rel="noopener noreferrer">documentation</a></li>
+</ul>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="new-functions">New Functions<a href="https://doris.apache.org/blog/release-note-3.0.6/#new-functions" class="hash-link" aria-label="Direct link to New Functions" title="Direct link to New Functions">&#x200B;</a></h3>
+<ul>
+<li><code>json_extract_no_quotes</code>
+<ul>
+<li>For detailed information, please refer to <a href="https://doris.apache.org/docs/3.0/sql-manual/sql-functions/scalar-functions/json-functions/json-extract" target="_blank" rel="noopener noreferrer">documentation</a></li>
+</ul>
+</li>
+<li><code>unhex_null</code>
+<ul>
+<li>For detailed information, please refer to <a href="https://doris.apache.org/docs/3.0/sql-manual/sql-functions/scalar-functions/string-functions/unhex" target="_blank" rel="noopener noreferrer">documentation</a></li>
+</ul>
+</li>
+<li><code>xpath_string</code>
+<ul>
+<li>For detailed information, please refer to <a href="https://doris.apache.org/docs/3.0/sql-manual/sql-functions/scalar-functions/string-functions/xpath-string" target="_blank" rel="noopener noreferrer">documentation</a></li>
+</ul>
+</li>
+<li><code>str_to_map</code></li>
+<li>For detailed information, please refer to <a href="https://doris.apache.org/docs/3.0/sql-manual/sql-functions/scalar-functions/map-functions/str-to-map" target="_blank" rel="noopener noreferrer">documentation</a></li>
+<li><code>months_between</code>
+<ul>
+<li>For detailed information, please refer to <a href="https://doris.apache.org/docs/3.0/sql-manual/sql-functions/scalar-functions/date-time-functions/months-between" target="_blank" rel="noopener noreferrer">documentation</a></li>
+</ul>
+</li>
+<li><code>next_day</code>
+<ul>
+<li>For detailed information, please refer to <a href="https://doris.apache.org/docs/3.0/sql-manual/sql-functions/scalar-functions/date-time-functions/next-day" target="_blank" rel="noopener noreferrer">documentation</a></li>
+</ul>
+</li>
+<li><code>format_round</code>:
+<ul>
+<li>For detailed information, please refer to <a href="https://doris.apache.org/docs/3.0/sql-manual/sql-functions/scalar-functions/numeric-functions/format-round" target="_blank" rel="noopener noreferrer">documentation</a></li>
+</ul>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="improvements">Improvements<a href="https://doris.apache.org/blog/release-note-3.0.6/#improvements" class="hash-link" aria-label="Direct link to Improvements" title="Direct link to Improvements">&#x200B;</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="storage-1">Storage<a href="https://doris.apache.org/blog/release-note-3.0.6/#storage-1" class="hash-link" aria-label="Direct link to Storage" title="Direct link to Storage">&#x200B;</a></h3>
+<ul>
+<li>Streamlined Compaction Profile and logs <a href="https://github.com/apache/doris/pull/50950" target="_blank" rel="noopener noreferrer">#50950</a></li>
+<li>Enhanced scheduling strategy to improve Compaction throughput <a href="https://github.com/apache/doris/pull/49882" target="_blank" rel="noopener noreferrer">#49882</a> <a href="https://github.com/apache/doris/pull/48759" target="_blank" rel="noopener noreferrer">#48759</a> <a href="https://github.com/apache/doris/pull/51482" target="_blank" rel="noopener noreferrer">#51482</a> <a href="https://github.com/apache/doris/pull/50672" target="_blank" rel="noopener noreferrer">#50672</a> <a href="https://github.com/apache/doris/pull/49953" target="_blank" rel="noopener noreferrer">#49953</a> <a href="https://github.com/apache/doris/pull/50819" target="_blank" rel="noopener noreferrer">#50819</a></li>
+<li><strong>Reduced redundant log output</strong> <a href="https://github.com/apache/doris/pull/51093" target="_blank" rel="noopener noreferrer">#51093</a></li>
+<li><strong>Implemented blacklist mechanism</strong> to prevent Routine Load from distributing metadata to unavailable BEs <a href="https://github.com/apache/doris/pull/50587" target="_blank" rel="noopener noreferrer">#50587</a></li>
+<li><strong>Increased default value</strong> of <code>load_task_high_priority_threshold_second</code> <a href="https://github.com/apache/doris/pull/50478" target="_blank" rel="noopener noreferrer">#50478</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="storage-compute-decoupled">Storage-Compute Decoupled<a href="https://doris.apache.org/blog/release-note-3.0.6/#storage-compute-decoupled" class="hash-link" aria-label="Direct link to Storage-Compute Decoupled" title="Direct link to Storage-Compute Decoupled">&#x200B;</a></h3>
+<ul>
+<li><strong>Startup optimization</strong>: Accelerated File Cache initialization <a href="https://github.com/apache/doris/pull/50726" target="_blank" rel="noopener noreferrer">#50726</a></li>
+<li><strong>Query acceleration</strong>: Improved File Cache performance <a href="https://github.com/apache/doris/pull/50275" target="_blank" rel="noopener noreferrer">#50275</a> <a href="https://github.com/apache/doris/pull/50387" target="_blank" rel="noopener noreferrer">#50387</a> <a href="https://github.com/apache/doris/pull/50555" target="_blank" rel="noopener noreferrer">#50555</a></li>
+<li><strong>Metadata optimization</strong>: Resolved performance bottlenecks caused by <code>get_version</code> <a href="https://github.com/apache/doris/pull/51111" target="_blank" rel="noopener noreferrer">#51111</a> <a href="https://github.com/apache/doris/pull/50439" target="_blank" rel="noopener noreferrer">#50439</a></li>
+<li><strong>Garbage collection acceleration</strong>: Improved object reclamation efficiency <a href="https://github.com/apache/doris/pull/50037" target="_blank" rel="noopener noreferrer">#50037</a> <a href="https://github.com/apache/doris/pull/50766" target="_blank" rel="noopener noreferrer">#50766</a></li>
+<li><strong>Stability enhancement</strong>: Optimized object storage retry strategy <a href="https://github.com/apache/doris/pull/50957" target="_blank" rel="noopener noreferrer">#50957</a></li>
+<li><strong>Granular profiling</strong>: Added tablet/segment footer dimension metrics <a href="https://github.com/apache/doris/pull/49945" target="_blank" rel="noopener noreferrer">#49945</a> <a href="https://github.com/apache/doris/pull/50564" target="_blank" rel="noopener noreferrer">#50564</a> <a href="https://github.com/apache/doris/pull/50326" target="_blank" rel="noopener noreferrer">#50326</a></li>
+<li><strong>Schema Change resilience</strong>: Enabled New Tablet Compaction by default to prevent -230 errors <a href="https://github.com/apache/doris/pull/51070" target="_blank" rel="noopener noreferrer">#51070</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="lakehouse-1">Lakehouse<a href="https://doris.apache.org/blog/release-note-3.0.6/#lakehouse-1" class="hash-link" aria-label="Direct link to Lakehouse" title="Direct link to Lakehouse">&#x200B;</a></h3>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="catalog-enhancements">Catalog enhancements<a href="https://doris.apache.org/blog/release-note-3.0.6/#catalog-enhancements" class="hash-link" aria-label="Direct link to Catalog enhancements" title="Direct link to Catalog enhancements">&#x200B;</a></h4>
+<ul>
+<li>Added partition cache TTL control (<code>partition.cache.ttl-second</code>) for Hive Catalog <a href="https://github.com/apache/doris/pull/50724" target="_blank" rel="noopener noreferrer">#50724</a>
+<ul>
+<li>For detailed information, please refer to documentation: <a href="https://doris.apache.org/docs/dev/lakehouse/meta-cache" target="_blank" rel="noopener noreferrer">Metadata Cache</a></li>
+</ul>
+</li>
+<li>Supported <code>skip.header.line.count</code> property for Hive tables <a href="https://github.com/apache/doris/pull/49929" target="_blank" rel="noopener noreferrer">#49929</a></li>
+<li>Added compatibility for Hive tables using <code>org.openx.data.jsonserde.JsonSerDe</code> <a href="https://github.com/apache/doris/pull/49958" target="_blank" rel="noopener noreferrer">#49958</a>
+<ul>
+<li>For detailed information, please refer to documentation: <a href="https://doris.apache.org/docs/dev/lakehouse/file-formats/text" target="_blank" rel="noopener noreferrer">Text Format</a></li>
+</ul>
+</li>
+<li>Upgraded Paimon to v1.0.1</li>
+<li>Upgraded Iceberg to v1.6.1</li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="functional-extensions">Functional extensions<a href="https://doris.apache.org/blog/release-note-3.0.6/#functional-extensions" class="hash-link" aria-label="Direct link to Functional extensions" title="Direct link to Functional extensions">&#x200B;</a></h4>
+<ul>
+<li>Added support for Alibaba Cloud OSS-HDFS Root Policy <a href="https://github.com/apache/doris/pull/50678" target="_blank" rel="noopener noreferrer">#50678</a></li>
+<li>Dialect compatibility: Returned query results in Hive format <a href="https://github.com/apache/doris/pull/49931" target="_blank" rel="noopener noreferrer">#49931</a>
+<ul>
+<li>For detailed information, please refer to documentation: <a href="https://doris.apache.org/docs/dev/lakehouse/sql-convertor/sql-convertor-overview" target="_blank" rel="noopener noreferrer">SQL Convertor</a></li>
+</ul>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="asynchronous-materialized-views">Asynchronous Materialized Views<a href="https://doris.apache.org/blog/release-note-3.0.6/#asynchronous-materialized-views" class="hash-link" aria-label="Direct link to Asynchronous Materialized Views" title="Direct link to Asynchronous Materialized Views">&#x200B;</a></h3>
+<ul>
+<li><strong>Memory optimization</strong>: Reduced memory footprint during transparent rewriting <a href="https://github.com/apache/doris/pull/48887" target="_blank" rel="noopener noreferrer">#48887</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="query-optimizer">Query Optimizer<a href="https://doris.apache.org/blog/release-note-3.0.6/#query-optimizer" class="hash-link" aria-label="Direct link to Query Optimizer" title="Direct link to Query Optimizer">&#x200B;</a></h3>
+<ul>
+<li><strong>Improved bucket pruning performance</strong> <a href="https://github.com/apache/doris/pull/49388" target="_blank" rel="noopener noreferrer">#49388</a></li>
+<li><strong>Enhanced lambda expressions</strong>: Supported external slot references <a href="https://github.com/apache/doris/pull/44365" target="_blank" rel="noopener noreferrer">#44365</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="query-execution">Query Execution<a href="https://doris.apache.org/blog/release-note-3.0.6/#query-execution" class="hash-link" aria-label="Direct link to Query Execution" title="Direct link to Query Execution">&#x200B;</a></h3>
+<ul>
+<li><strong>TopN query acceleration</strong>: Optimized performance in compute-storage separation scenarios <a href="https://github.com/apache/doris/pull/50803" target="_blank" rel="noopener noreferrer">#50803</a></li>
+<li><strong>Function extension</strong>: Added variable parameter support for <code>substring_index</code> <a href="https://github.com/apache/doris/pull/50149" target="_blank" rel="noopener noreferrer">#50149</a></li>
+<li><strong>Geospatial functions</strong>: Added <code>ST_CONTAINS</code>, <code>ST_INTERSECTS</code>, <code>ST_TOUCHES</code>, and <code>ST_DISJOINT</code> <a href="https://github.com/apache/doris/pull/49665" target="_blank" rel="noopener noreferrer">#49665</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="core-components">Core Components<a href="https://doris.apache.org/blog/release-note-3.0.6/#core-components" class="hash-link" aria-label="Direct link to Core Components" title="Direct link to Core Components">&#x200B;</a></h3>
+<ul>
+<li><strong>Memory tracker optimization</strong>: ~10% performance gain in high-concurrency scenarios <a href="https://github.com/apache/doris/pull/50462" target="_blank" rel="noopener noreferrer">#50462</a></li>
+<li><strong>Audit log enhancement</strong>: Added <code>audit_plugin_max_insert_stmt_length</code> to limit INSERT statement length <a href="https://github.com/apache/doris/pull/51314" target="_blank" rel="noopener noreferrer">#51314</a>
+<ul>
+<li>For detailed information, please refer to documentation: <a href="https://doris.apache.org/docs/3.0/admin-manual/audit-plugin" target="_blank" rel="noopener noreferrer">Audit Plugin</a></li>
+</ul>
+</li>
+<li><strong>SQL converter control</strong>: Introduced session variables <code>sql_convertor_config</code> and <code>enable_sql_convertor_features</code>
+<ul>
+<li>For detailed information, please refer to documentation: <a href="https://doris.apache.org/docs/dev/lakehouse/sql-convertor/sql-convertor-overview" target="_blank" rel="noopener noreferrer">SQL Dialect</a></li>
+</ul>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="bug-fixes">Bug Fixes<a href="https://doris.apache.org/blog/release-note-3.0.6/#bug-fixes" class="hash-link" aria-label="Direct link to Bug Fixes" title="Direct link to Bug Fixes">&#x200B;</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="data-ingestion">Data Ingestion<a href="https://doris.apache.org/blog/release-note-3.0.6/#data-ingestion" class="hash-link" aria-label="Direct link to Data Ingestion" title="Direct link to Data Ingestion">&#x200B;</a></h3>
+<ul>
+<li>Fixed transaction cleanup failures in BE <a href="https://github.com/apache/doris/pull/50103" target="_blank" rel="noopener noreferrer">#50103</a></li>
+<li>Improved error reporting accuracy for Routine Load <a href="https://github.com/apache/doris/pull/51078" target="_blank" rel="noopener noreferrer">#51078</a></li>
+<li>Prevented metadata task distribution to <code>disable_load=true</code> nodes <a href="https://github.com/apache/doris/pull/50421" target="_blank" rel="noopener noreferrer">#50421</a></li>
+<li>Fixed consumption progress rollback after FE restart <a href="https://github.com/apache/doris/pull/50221" target="_blank" rel="noopener noreferrer">#50221</a></li>
+<li>Resolved Group Commit and Schema Change conflict causing Core Dump <a href="https://github.com/apache/doris/pull/51144" target="_blank" rel="noopener noreferrer">#51144</a></li>
+<li>Fixed S3 Load errors when using HTTPS protocol <a href="https://github.com/apache/doris/pull/51246" target="_blank" rel="noopener noreferrer">#51246</a> <a href="https://github.com/apache/doris/pull/51529" target="_blank" rel="noopener noreferrer">#51529</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="primary-key-model">Primary Key Model<a href="https://doris.apache.org/blog/release-note-3.0.6/#primary-key-model" class="hash-link" aria-label="Direct link to Primary Key Model" title="Direct link to Primary Key Model">&#x200B;</a></h3>
+<ul>
+<li>Fixed duplicate key issues caused by race conditions <a href="https://github.com/apache/doris/pull/50019" target="_blank" rel="noopener noreferrer">#50019</a> <a href="https://github.com/apache/doris/pull/50051" target="_blank" rel="noopener noreferrer">#50051</a> <a href="https://github.com/apache/doris/pull/50106" target="_blank" rel="noopener noreferrer">#50106</a> <a href="https://github.com/apache/doris/pull/50417" target="_blank" rel="noopener noreferrer">#50417</a> <a href="https://github.com/apache/doris/pull/50847" target="_blank" rel="noopener noreferrer">#50847</a> <a href="https://github.com/apache/doris/pull/50974" target="_blank" rel="noopener noreferrer">#50974</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="storage-2">Storage<a href="https://doris.apache.org/blog/release-note-3.0.6/#storage-2" class="hash-link" aria-label="Direct link to Storage" title="Direct link to Storage">&#x200B;</a></h3>
+<ul>
+<li>Fixed CCR and disk balancing race conditions <a href="https://github.com/apache/doris/pull/50663" target="_blank" rel="noopener noreferrer">#50663</a></li>
+<li>Corrected missing persistence of default partition keys <a href="https://github.com/apache/doris/pull/50489" target="_blank" rel="noopener noreferrer">#50489</a></li>
+<li>Added Rollup table support for CCR <a href="https://github.com/apache/doris/pull/50337" target="_blank" rel="noopener noreferrer">#50337</a></li>
+<li>Fixed edge case when <code>cooldown_ttl=0</code> <a href="https://github.com/apache/doris/pull/50830" target="_blank" rel="noopener noreferrer">#50830</a></li>
+<li>Resolved data loss caused by GC and Publish contention <a href="https://github.com/apache/doris/pull/50343" target="_blank" rel="noopener noreferrer">#50343</a></li>
+<li>Fixed partition pruning failure in Delete Job <a href="https://github.com/apache/doris/pull/50674" target="_blank" rel="noopener noreferrer">#50674</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="storage-compute-decoupled-1">Storage-Compute Decoupled<a href="https://doris.apache.org/blog/release-note-3.0.6/#storage-compute-decoupled-1" class="hash-link" aria-label="Direct link to Storage-Compute Decoupled" title="Direct link to Storage-Compute Decoupled">&#x200B;</a></h3>
+<ul>
+<li>Fixed Schema Change blocking Compaction <a href="https://github.com/apache/doris/pull/50908" target="_blank" rel="noopener noreferrer">#50908</a></li>
+<li>Solved object reclamation failure when <code>storage_vault_prefix</code> is empty <a href="https://github.com/apache/doris/pull/50352" target="_blank" rel="noopener noreferrer">#50352</a></li>
+<li>Resolved query performance issues caused by Tablet Cache <a href="https://github.com/apache/doris/pull/51193" target="_blank" rel="noopener noreferrer">#51193</a> <a href="https://github.com/apache/doris/pull/49420" target="_blank" rel="noopener noreferrer">#49420</a></li>
+<li>Eliminated performance jitter from residual Tablet Cache <a href="https://github.com/apache/doris/pull/50200" target="_blank" rel="noopener noreferrer">#50200</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="lakehouse-2">Lakehouse<a href="https://doris.apache.org/blog/release-note-3.0.6/#lakehouse-2" class="hash-link" aria-label="Direct link to Lakehouse" title="Direct link to Lakehouse">&#x200B;</a></h3>
+<ul>
+<li><strong>Export fixes</strong>
+<ul>
+<li>Fixed FE memory leaks <a href="https://github.com/apache/doris/pull/51171" target="_blank" rel="noopener noreferrer">#51171</a></li>
+<li>Prevented FE deadlocks <a href="https://github.com/apache/doris/pull/50088" target="_blank" rel="noopener noreferrer">#50088</a></li>
+</ul>
+</li>
+<li><strong>Catalog fixes</strong>
+<ul>
+<li>Enabled composite predicate pushdown for JDBC Catalog <a href="https://github.com/apache/doris/pull/50542" target="_blank" rel="noopener noreferrer">#50542</a></li>
+<li>Fixed Deletion Vector reading for Alibaba Cloud OSS Paimon tables <a href="https://github.com/apache/doris/pull/49645" target="_blank" rel="noopener noreferrer">#49645</a></li>
+<li>Supported comma-containing Hive partition values <a href="https://github.com/apache/doris/pull/49382" target="_blank" rel="noopener noreferrer">#49382</a></li>
+<li>Corrected MaxCompute Timestamp column parsing <a href="https://github.com/apache/doris/pull/49600" target="_blank" rel="noopener noreferrer">#49600</a></li>
+<li>Enabled <code>information_schema</code> system tables for Trino Catalog <a href="https://github.com/apache/doris/pull/49912" target="_blank" rel="noopener noreferrer">#49912</a></li>
+</ul>
+</li>
+<li><strong>File formats</strong>
+<ul>
+<li>Fixed LZO compression reading failures <a href="https://github.com/apache/doris/pull/49538" target="_blank" rel="noopener noreferrer">#49538</a></li>
+<li>Added legacy ORC file compatibility <a href="https://github.com/apache/doris/pull/50358" target="_blank" rel="noopener noreferrer">#50358</a></li>
+<li>Corrected complex type parsing in ORC files <a href="https://github.com/apache/doris/pull/50136" target="_blank" rel="noopener noreferrer">#50136</a></li>
+</ul>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="asynchronous-materialized-views-1">Asynchronous Materialized Views<a href="https://doris.apache.org/blog/release-note-3.0.6/#asynchronous-materialized-views-1" class="hash-link" aria-label="Direct link to Asynchronous Materialized Views" title="Direct link to Asynchronous Materialized Views">&#x200B;</a></h3>
+<ul>
+<li>Fixed refresh miss when specifying both <code>start time</code> and immediate trigger modes <a href="https://github.com/apache/doris/pull/50624" target="_blank" rel="noopener noreferrer">#50624</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="query-optimizer-1">Query Optimizer<a href="https://doris.apache.org/blog/release-note-3.0.6/#query-optimizer-1" class="hash-link" aria-label="Direct link to Query Optimizer" title="Direct link to Query Optimizer">&#x200B;</a></h3>
+<ul>
+<li>Fixed rewriting errors with lambda expressions <a href="https://github.com/apache/doris/pull/49166" target="_blank" rel="noopener noreferrer">#49166</a></li>
+<li>Resolved planning failures with constant group by keys <a href="https://github.com/apache/doris/pull/49473" target="_blank" rel="noopener noreferrer">#49473</a></li>
+<li>Corrected constant folding logic <a href="https://github.com/apache/doris/pull/50142" target="_blank" rel="noopener noreferrer">#50142</a> <a href="https://github.com/apache/doris/pull/50810" target="_blank" rel="noopener noreferrer">#50810</a></li>
+<li>Completed system table information retrieval <a href="https://github.com/apache/doris/pull/50721" target="_blank" rel="noopener noreferrer">#50721</a></li>
+<li>Fixed column type handling when creating views with NULL Literal <a href="https://github.com/apache/doris/pull/49881" target="_blank" rel="noopener noreferrer">#49881</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="query-execution-1">Query Execution<a href="https://doris.apache.org/blog/release-note-3.0.6/#query-execution-1" class="hash-link" aria-label="Direct link to Query Execution" title="Direct link to Query Execution">&#x200B;</a></h3>
+<ul>
+<li>Fixed BE crashes caused by illegal JSON values during import <a href="https://github.com/apache/doris/pull/50978" target="_blank" rel="noopener noreferrer">#50978</a></li>
+<li>Corrected Intersect results with NULL constant inputs <a href="https://github.com/apache/doris/pull/50951" target="_blank" rel="noopener noreferrer">#50951</a></li>
+<li>Fixed predicate mis-execution with Variant types <a href="https://github.com/apache/doris/pull/50934" target="_blank" rel="noopener noreferrer">#50934</a></li>
+<li>Resolved <code>get_json_string</code> errors with illegal JSON Paths <a href="https://github.com/apache/doris/pull/50859" target="_blank" rel="noopener noreferrer">#50859</a></li>
+<li>Aligned function behaviors (JSON_REPLACE/INSERT/SET/ARRAY) with MySQL <a href="https://github.com/apache/doris/pull/50308" target="_blank" rel="noopener noreferrer">#50308</a></li>
+<li>Fixed <code>array_map</code> crashes with empty parameters <a href="https://github.com/apache/doris/pull/50201" target="_blank" rel="noopener noreferrer">#50201</a></li>
+<li>Prevented core dumps during abnormal Variant-to-JSONB conversion <a href="https://github.com/apache/doris/pull/50180" target="_blank" rel="noopener noreferrer">#50180</a></li>
+<li>Added missing <code>explode_json_array_json_outer</code> function <a href="https://github.com/apache/doris/pull/50164" target="_blank" rel="noopener noreferrer">#50164</a></li>
+<li>Aligned results between <code>percentile</code> and <code>percentile_array</code> <a href="https://github.com/apache/doris/pull/49351" target="_blank" rel="noopener noreferrer">#49351</a></li>
+<li>Optimized UTF8 handling for functions (url_encode/strright/append_trailing_char_if_absent) <a href="https://github.com/apache/doris/pull/49127" target="_blank" rel="noopener noreferrer">#49127</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="others">Others<a href="https://doris.apache.org/blog/release-note-3.0.6/#others" class="hash-link" aria-label="Direct link to Others" title="Direct link to Others">&#x200B;</a></h3>
+<ul>
+<li>Fixed audit log loss in high-concurrency scenarios <a href="https://github.com/apache/doris/pull/50357" target="_blank" rel="noopener noreferrer">#50357</a></li>
+<li>Prevented metadata replay failures during dynamic partition creation <a href="https://github.com/apache/doris/pull/49569" target="_blank" rel="noopener noreferrer">#49569</a></li>
+<li>Solved Global UDF loss after restart <a href="https://github.com/apache/doris/pull/50279" target="_blank" rel="noopener noreferrer">#50279</a></li>
+<li>Aligned View metadata return format with MySQL <a href="https://github.com/apache/doris/pull/51058" target="_blank" rel="noopener noreferrer">#51058</a></li>
+</ul></div>]]></content:encoded>
+            <category>Release Notes</category>
+        </item>
+        <item>
+            <title><![CDATA[Community Voice: Elasticsearch vs. Apache Doris]]></title>
+            <link>https://doris.apache.org/blog/elasticsearch-vs-apache-doris-community-voice/</link>
+            <guid>https://doris.apache.org/blog/elasticsearch-vs-apache-doris-community-voice/</guid>
+            <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[ Listen to what users say! Rahul Kolluri has provided a detailed technical comparison between Elasticsearch and Apache Doris based on real-world billing analytics scenarios. Based on his experience building dashboards and backend APIs around AWS usage and billing data, he saw Elasticsearch hit major limits when used for analytics.]]></description>
+            <content:encoded><![CDATA[<header><div class="text-center mb-4"><a class="!text-[#8592A6] cursor-pointer hover:no-underline" href="https://doris.apache.org/blog/">Blog</a><span class="px-2 text-[#8592A6]">/</span><span><span class="s-tags"><span class="s-tag">Tech Sharing</span></span></span></div><h1 class="blog-post-title text-[2rem] leading-normal lg:!text-[2.5rem] text-center" itemprop="headline">Community Voice: Elasticsearch vs. Apache Doris</h1><div class="blog-info text-center flex justify-center text-sm text-black"><span class="authors"><span class="s-author text-black">LinkedIn &#xB7; Rahul Kolluri</span></span><time datetime="2025-06-10T00:00:00.000Z" itemprop="datePublished" class="text-black ml-4">June 10, 2025</time></div></header><div id="__blog-post-container" class="markdown" itemprop="articleBody"></div>]]></content:encoded>
+            <category>Tech Sharing</category>
+        </item>
+        <item>
+            <title><![CDATA[Apache Doris 2.1.10 released]]></title>
+            <link>https://doris.apache.org/blog/release-note-2.1.10/</link>
+            <guid>https://doris.apache.org/blog/release-note-2.1.10/</guid>
+            <pubDate>Sat, 17 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[This version introduces continuous upgrades and enhancements in Query Execution Engine and Lakehouse. It also resolves critical bugs to improve stability and performance.]]></description>
+            <content:encoded><![CDATA[<header><div class="text-center mb-4"><a class="!text-[#8592A6] cursor-pointer hover:no-underline" href="https://doris.apache.org/blog/">Blog</a><span class="px-2 text-[#8592A6]">/</span><span><span class="s-tags"><span class="s-tag">Release Notes</span></span></span></div><h1 class="blog-post-title text-[2rem] leading-normal lg:!text-[2.5rem] text-center" itemprop="headline">Apache Doris 2.1.10 released</h1><div class="blog-info text-center flex justify-center text-sm text-black"><span class="authors"><span class="s-author text-black">Apache Doris</span></span><time datetime="2025-05-17T00:00:00.000Z" itemprop="datePublished" class="text-black ml-4">May 17, 2025</time></div></header><div id="__blog-post-container" class="markdown" itemprop="articleBody"><p>Dear Community, <strong>Apache Doris version 2.1.10 is now available</strong>. This version introduces continuous upgrades and enhancements in Query Execution Engine and Lakehouse. It also resolves critical bugs to improve stability and performance.</p>
+<ul>
+<li>
+<p><a href="https://doris.apache.org/download" target="_blank" rel="noopener noreferrer">Quick Download</a></p>
+</li>
+<li>
+<p><a href="https://github.com/apache/doris/releases/tag/2.1.10-rc01" target="_blank" rel="noopener noreferrer">GitHub Release</a></p>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="behavior-changes">Behavior Changes<a href="https://doris.apache.org/blog/release-note-2.1.10/#behavior-changes" class="hash-link" aria-label="Direct link to Behavior Changes" title="Direct link to Behavior Changes">&#x200B;</a></h2>
+<ul>
+<li>DELETE no longer incorrectly requires the SELECT_PRIV permission on the target table. <a href="https://github.com/apache/doris/pull/49794" target="_blank" rel="noopener noreferrer"> #49794</a></li>
+<li>Insert Overwrite no longer restricts concurrent operations on the same table to 1. <a href="https://github.com/apache/doris/pull/48673" target="_blank" rel="noopener noreferrer"> #48673</a></li>
+<li>Merge on write unique tables prohibit the use of time-series compaction. <a href="https://github.com/apache/doris/pull/49905" target="_blank" rel="noopener noreferrer"> #49905</a></li>
+<li>Building indexes on VARIANT type columns is prohibited. <a href="https://github.com/apache/doris/pull/49159" target="_blank" rel="noopener noreferrer"> #49159</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="new-features">New Features<a href="https://doris.apache.org/blog/release-note-2.1.10/#new-features" class="hash-link" aria-label="Direct link to New Features" title="Direct link to New Features">&#x200B;</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="query-execution-engine">Query Execution Engine<a href="https://doris.apache.org/blog/release-note-2.1.10/#query-execution-engine" class="hash-link" aria-label="Direct link to Query Execution Engine" title="Direct link to Query Execution Engine">&#x200B;</a></h3>
+<ul>
+<li>Added support for more GEO type computation functions: <code>ST_CONTAINS</code>, <code>ST_INTERSECTS</code>, <code>ST_TOUCHES</code>, <code>GeometryFromText</code>, <code>ST_Intersects</code>, <code>ST_Disjoint</code>, <code>ST_Touches</code>. <a href="https://github.com/apache/doris/pull/49665" target="_blank" rel="noopener noreferrer"> #49665</a> <a href="https://github.com/apache/doris/pull/48695" target="_blank" rel="noopener noreferrer"> #48695</a></li>
+<li>Added support for the <code>years_of_week</code> function. <a href="https://github.com/apache/doris/pull/48870" target="_blank" rel="noopener noreferrer"> #48870</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="lakehouse">Lakehouse<a href="https://doris.apache.org/blog/release-note-2.1.10/#lakehouse" class="hash-link" aria-label="Direct link to Lakehouse" title="Direct link to Lakehouse">&#x200B;</a></h3>
+<ul>
+<li>Hive Catalog now supports catalog-level partition cache control. <a href="https://github.com/apache/doris/pull/50724" target="_blank" rel="noopener noreferrer"> #50724</a>
+<ul>
+<li>For more details, refer to the<a href="https://doris.apache.org/docs/dev/lakehouse/meta-cache" target="_blank" rel="noopener noreferrer"> </a><a href="https://doris.apache.org/docs/dev/lakehouse/meta-cache#disable-hive-catalog-metadata-cache" target="_blank" rel="noopener noreferrer">documentation</a>.</li>
+</ul>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="improvements">Improvements<a href="https://doris.apache.org/blog/release-note-2.1.10/#improvements" class="hash-link" aria-label="Direct link to Improvements" title="Direct link to Improvements">&#x200B;</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="lakehouse-1">Lakehouse<a href="https://doris.apache.org/blog/release-note-2.1.10/#lakehouse-1" class="hash-link" aria-label="Direct link to Lakehouse" title="Direct link to Lakehouse">&#x200B;</a></h3>
+<ul>
+<li>Upgraded the Paimon dependency version to 1.0.1.</li>
+<li>Upgraded the Iceberg dependency version to 1.6.1.</li>
+<li>Included the memory overhead of Parquet Footer in the Memory Tracker to avoid potential OOM issues. <a href="https://github.com/apache/doris/pull/49037" target="_blank" rel="noopener noreferrer"> #49037</a></li>
+<li>Optimized the predicate pushdown logic for JDBC Catalog, supporting pushdown of AND/OR connected predicates. <a href="https://github.com/apache/doris/pull/50542" target="_blank" rel="noopener noreferrer"> #50542</a></li>
+<li>Precompiled versions now include the Jindofs extension package by default to support Alibaba Cloud oss-hdfs access.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="semi-structured-data-management">Semi-Structured Data Management<a href="https://doris.apache.org/blog/release-note-2.1.10/#semi-structured-data-management" class="hash-link" aria-label="Direct link to Semi-Structured Data Management" title="Direct link to Semi-Structured Data Management">&#x200B;</a></h3>
+<ul>
+<li>ANY function now supports JSON type. <a href="https://github.com/apache/doris/pull/50311" target="_blank" rel="noopener noreferrer"> #50311</a></li>
+<li>JSON_REPLACE, JSON_INSERT, JSON_SET, JSON_ARRAY functions now support JSON data type and complex data types. <a href="https://github.com/apache/doris/pull/50308" target="_blank" rel="noopener noreferrer"> #50308</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="query-optimizer">Query Optimizer<a href="https://doris.apache.org/blog/release-note-2.1.10/#query-optimizer" class="hash-link" aria-label="Direct link to Query Optimizer" title="Direct link to Query Optimizer">&#x200B;</a></h3>
+<ul>
+<li>When the number of options in an IN expression exceeds <code>Config.max_distribution_pruner_recursion_depth</code>, bucket pruning is not performed to improve planning speed. <a href="https://github.com/apache/doris/pull/49387" target="_blank" rel="noopener noreferrer"> #49387</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="storage-management">Storage Management<a href="https://doris.apache.org/blog/release-note-2.1.10/#storage-management" class="hash-link" aria-label="Direct link to Storage Management" title="Direct link to Storage Management">&#x200B;</a></h3>
+<ul>
+<li>Reduced logging and improved some log messages. <a href="https://github.com/apache/doris/pull/47647" target="_blank" rel="noopener noreferrer"> #47647</a> <a href="https://github.com/apache/doris/pull/48523" target="_blank" rel="noopener noreferrer"> #48523</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="other">Other<a href="https://doris.apache.org/blog/release-note-2.1.10/#other" class="hash-link" aria-label="Direct link to Other" title="Direct link to Other">&#x200B;</a></h3>
+<ul>
+<li>Avoided the thrift rpc END_OF_FILE exception. <a href="https://github.com/apache/doris/pull/49649" target="_blank" rel="noopener noreferrer"> #49649</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="bug-fixes">Bug Fixes<a href="https://doris.apache.org/blog/release-note-2.1.10/#bug-fixes" class="hash-link" aria-label="Direct link to Bug Fixes" title="Direct link to Bug Fixes">&#x200B;</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="lakehouse-2">Lakehouse<a href="https://doris.apache.org/blog/release-note-2.1.10/#lakehouse-2" class="hash-link" aria-label="Direct link to Lakehouse" title="Direct link to Lakehouse">&#x200B;</a></h3>
+<ul>
+<li>Fixed the issue where newly created tables in Hive were not immediately visible in Doris. <a href="https://github.com/apache/doris/pull/50188" target="_blank" rel="noopener noreferrer"> #50188</a></li>
+<li>Fixed the error &quot;Storage schema reading not supported&quot; when accessing certain Text format Hive tables. <a href="https://github.com/apache/doris/pull/50038" target="_blank" rel="noopener noreferrer"> #50038</a>
+<ul>
+<li>Refer to the<a href="https://doris.apache.org/docs/dev/lakehouse/catalogs/hive-catalog?_highlight=get_schema_from_table#syntax" target="_blank" rel="noopener noreferrer"> get_schema_from_table documentation</a> for details.</li>
+</ul>
+</li>
+<li>Fixed concurrency issues with metadata submission when writing to Hive/Iceberg tables. <a href="https://github.com/apache/doris/pull/49842" target="_blank" rel="noopener noreferrer"> #49842</a></li>
+<li>Fixed the issue where writing to Hive tables stored on oss-hdfs failed. <a href="https://github.com/apache/doris/pull/49754" target="_blank" rel="noopener noreferrer"> #49754</a></li>
+<li>Fixed the issue where accessing Hive tables with partition key values containing commas failed. <a href="https://github.com/apache/doris/pull/49382" target="_blank" rel="noopener noreferrer"> #49382</a></li>
+<li>Fixed the issue where Split allocation for Paimon tables was uneven in certain cases. <a href="https://github.com/apache/doris/pull/50083" target="_blank" rel="noopener noreferrer"> #50083</a></li>
+<li>Fixed the issue where Delete files were not correctly handled when reading Paimon tables stored on oss. <a href="https://github.com/apache/doris/pull/49645" target="_blank" rel="noopener noreferrer"> #49645</a></li>
+<li>Fixed the issue where reading high-precision Timestamp columns in MaxCompute Catalog failed. <a href="https://github.com/apache/doris/pull/49600" target="_blank" rel="noopener noreferrer"> #49600</a></li>
+<li>Fixed the potential resource leakage when deleting a Catalog in certain cases. <a href="https://github.com/apache/doris/pull/49621" target="_blank" rel="noopener noreferrer"> #49621</a></li>
+<li>Fixed the issue where reading LZO compressed data failed in certain cases. <a href="https://github.com/apache/doris/pull/49538" target="_blank" rel="noopener noreferrer"> #49538</a></li>
+<li>Fixed the issue where ORC deferred materialization caused errors when reading complex types. <a href="https://github.com/apache/doris/pull/50136" target="_blank" rel="noopener noreferrer"> #50136</a></li>
+<li>Fixed the issue where reading ORC files generated by pyorc-0.3 version failed. <a href="https://github.com/apache/doris/pull/50358" target="_blank" rel="noopener noreferrer"> #50358</a></li>
+<li>Fixed the issue where EXPORT operations caused metadata deadlocks. <a href="https://github.com/apache/doris/pull/50088" target="_blank" rel="noopener noreferrer"> #50088</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="indexing">Indexing<a href="https://doris.apache.org/blog/release-note-2.1.10/#indexing" class="hash-link" aria-label="Direct link to Indexing" title="Direct link to Indexing">&#x200B;</a></h3>
+<ul>
+<li>Fixed errors in building inverted indexes after multiple add, delete, and rename column operations. <a href="https://github.com/apache/doris/pull/50056" target="_blank" rel="noopener noreferrer"> #50056</a></li>
+<li>Added validation for unique column IDs in index compaction to avoid potential data anomalies and system errors. <a href="https://github.com/apache/doris/pull/47562" target="_blank" rel="noopener noreferrer"> #47562</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="semi-structured-data-types">Semi-Structured Data Types<a href="https://doris.apache.org/blog/release-note-2.1.10/#semi-structured-data-types" class="hash-link" aria-label="Direct link to Semi-Structured Data Types" title="Direct link to Semi-Structured Data Types">&#x200B;</a></h3>
+<ul>
+<li>Fixed the issue where converting VARIANT type to JSON type returned NULL in certain cases. <a href="https://github.com/apache/doris/pull/50180" target="_blank" rel="noopener noreferrer"> #50180</a></li>
+<li>Fixed the crash caused by JSONB CAST in certain cases. <a href="https://github.com/apache/doris/pull/49810" target="_blank" rel="noopener noreferrer"> #49810</a></li>
+<li>Prohibited building indexes on VARIANT type columns. <a href="https://github.com/apache/doris/pull/49159" target="_blank" rel="noopener noreferrer"> #49159</a></li>
+<li>Fixed the precision correctness of decimal type in the named_struct function. <a href="https://github.com/apache/doris/pull/48964" target="_blank" rel="noopener noreferrer"> #48964</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="query-optimizer-1">Query Optimizer<a href="https://doris.apache.org/blog/release-note-2.1.10/#query-optimizer-1" class="hash-link" aria-label="Direct link to Query Optimizer" title="Direct link to Query Optimizer">&#x200B;</a></h3>
+<ul>
+<li>Fixed several issues in constant folding. <a href="https://github.com/apache/doris/pull/49413" target="_blank" rel="noopener noreferrer">#49413</a> <a href="https://github.com/apache/doris/pull/50425" target="_blank" rel="noopener noreferrer">#50425</a> <a href="https://github.com/apache/doris/pull/49686" target="_blank" rel="noopener noreferrer">#49686</a> <a href="https://github.com/apache/doris/pull/49575" target="_blank" rel="noopener noreferrer">#49575</a> <a href="https://github.com/apache/doris/pull/50142" target="_blank" rel="noopener noreferrer">#50142</a></li>
+<li>Common subexpression extraction may not work properly on lambda expressions. <a href="https://github.com/apache/doris/pull/49166" target="_blank" rel="noopener noreferrer">#49166</a></li>
+<li>Fixed the issue where eliminating constants in group by keys might not work properly. <a href="https://github.com/apache/doris/pull/49589" target="_blank" rel="noopener noreferrer">#49589</a></li>
+<li>Fixed the issue where planning failed in extreme scenarios due to incorrect statistics inference. <a href="https://github.com/apache/doris/pull/49415" target="_blank" rel="noopener noreferrer">#49415</a></li>
+<li>Fixed the issue where some information_schema tables depending on BE metadata could not retrieve complete data. <a href="https://github.com/apache/doris/pull/50721" target="_blank" rel="noopener noreferrer">#50721</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="query-execution-engine-1">Query Execution Engine<a href="https://doris.apache.org/blog/release-note-2.1.10/#query-execution-engine-1" class="hash-link" aria-label="Direct link to Query Execution Engine" title="Direct link to Query Execution Engine">&#x200B;</a></h3>
+<ul>
+<li>Fixed the issue where the explode_json_array_json_outer function was not found. <a href="https://github.com/apache/doris/pull/50164" target="_blank" rel="noopener noreferrer">#50164</a></li>
+<li>Fixed the issue where substring_index did not support dynamic parameters. <a href="https://github.com/apache/doris/pull/50149" target="_blank" rel="noopener noreferrer">#50149</a></li>
+<li>Fixed the issue where the st_contains function returned incorrect results in many cases. <a href="https://github.com/apache/doris/pull/50115" target="_blank" rel="noopener noreferrer">#50115</a></li>
+<li>Fixed the core dump issue that could be caused by the array_range function. <a href="https://github.com/apache/doris/pull/49993" target="_blank" rel="noopener noreferrer">#49993</a></li>
+<li>Fixed the issue where the date_diff function returned incorrect results. <a href="https://github.com/apache/doris/pull/49429" target="_blank" rel="noopener noreferrer">#49429</a></li>
+<li>Fixed a series of issues with string functions causing garbled output or incorrect results in non-ASCII encodings. <a href="https://github.com/apache/doris/pull/49231" target="_blank" rel="noopener noreferrer">#49231</a> <a href="https://github.com/apache/doris/pull/49846" target="_blank" rel="noopener noreferrer">#49846</a> <a href="https://github.com/apache/doris/pull/49127" target="_blank" rel="noopener noreferrer">#49127</a> <a href="https://github.com/apache/doris/pull/40710" target="_blank" rel="noopener noreferrer">#40710</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="storage-management-1">Storage Management<a href="https://doris.apache.org/blog/release-note-2.1.10/#storage-management-1" class="hash-link" aria-label="Direct link to Storage Management" title="Direct link to Storage Management">&#x200B;</a></h3>
+<ul>
+<li>Fixed the issue where metadata replay for dynamic partition tables failed in certain cases. <a href="https://github.com/apache/doris/pull/49569" target="_blank" rel="noopener noreferrer">#49569</a></li>
+<li>Fixed the issue where streamload on ARM might lose data due to operation sequence. <a href="https://github.com/apache/doris/pull/48948" target="_blank" rel="noopener noreferrer">#48948</a></li>
+<li>Fixed the error in full compaction and the potential issue of mow data duplication. <a href="https://github.com/apache/doris/pull/49825" target="_blank" rel="noopener noreferrer">#49825</a> <a href="https://github.com/apache/doris/pull/48958" target="_blank" rel="noopener noreferrer">#48958</a></li>
+<li>Fixed the issue where partition storage policy was not persisted. <a href="https://github.com/apache/doris/pull/49721" target="_blank" rel="noopener noreferrer">#49721</a></li>
+<li>Fixed the extremely rare issue where imported files did not exist. <a href="https://github.com/apache/doris/pull/50343" target="_blank" rel="noopener noreferrer">#50343</a></li>
+<li>Fixed the issue where ccr and disk balancing concurrency might cause files to go missing. <a href="https://github.com/apache/doris/pull/50663" target="_blank" rel="noopener noreferrer">#50663</a></li>
+<li>Fixed the connection reset issue that might occur during backup and restore of large snapshots. <a href="https://github.com/apache/doris/pull/49649" target="_blank" rel="noopener noreferrer">#49649</a></li>
+<li>Fixed the issue where FE follower lost local backup snapshots. <a href="https://github.com/apache/doris/pull/49550" target="_blank" rel="noopener noreferrer">#49550</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="others">Others<a href="https://doris.apache.org/blog/release-note-2.1.10/#others" class="hash-link" aria-label="Direct link to Others" title="Direct link to Others">&#x200B;</a></h3>
+<ul>
+<li>Fixed the issue where audit logs might be lost in certain scenarios. <a href="https://github.com/apache/doris/pull/50357" target="_blank" rel="noopener noreferrer">#50357</a></li>
+<li>Fixed the issue where the isQuery flag in audit logs might be incorrect. <a href="https://github.com/apache/doris/pull/49959" target="_blank" rel="noopener noreferrer">#49959</a></li>
+<li>Fixed the issue where some query sqlHash values in audit logs were incorrect. <a href="https://github.com/apache/doris/pull/49984" target="_blank" rel="noopener noreferrer">#49984</a></li>
+</ul></div>]]></content:encoded>
+            <category>Release Notes</category>
+        </item>
+    </channel>
+</rss>
